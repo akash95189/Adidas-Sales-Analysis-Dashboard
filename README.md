@@ -8,8 +8,9 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Steps
 
 ### 1. Preview
-  - **Tools Used**- Jupyter Notebook, Python, MYSQL Workbench
+  - **Tools Used**- Jupyter Notebook, Python, PySpark, MYSQL Workbench, Spark SQL, Google Colab
   - **Goal**- To Create a structured workspace in Jupyter Notebook for smooth data handling.
+  - **Data Enginerring**- Used Pyspark and spark sql tp get the same analysis to learn ELT.
 
 ### 2. Set up Dataset
   - **Data Source**- Using Open source Kaggle to Download the readymade available dataset.
